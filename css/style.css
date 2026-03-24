@@ -1,0 +1,42 @@
+body {
+  background-color: #0f0f0f;
+  color: white;
+  scroll-behavior: smooth;
+}
+
+/* Secciones */
+.section {
+  padding: 100px 0;
+}
+
+.alt {
+  background-color: #161616;
+}
+
+/* Navbar glass */
+.glass {
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(10px);
+}
+
+/* Hero */
+.hero {
+  height: 100vh;
+}
+
+/* Cards */
+.card {
+  border: none;
+  border-radius: 15px;
+}
+
+/* Hover efecto */
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+
+/* Fix navbar */
+section {
+  scroll-margin-top: 80px;
+}
