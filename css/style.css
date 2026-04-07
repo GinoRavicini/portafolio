@@ -154,6 +154,12 @@ section {
   margin: 2px;
 }
 
+.tech-stack {
+  color: #b0b0b0; /* gris más visible */
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
 .tech-badges .badge {
   margin: 3px;
   padding: 5px 10px;
