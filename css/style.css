@@ -139,3 +139,7 @@ section {
 .project-card:hover .project-overlay {
   opacity: 1;
 }
+
+.project-overlay .badge {
+  margin: 2px;
+}
