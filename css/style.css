@@ -143,3 +143,36 @@ section {
 .project-overlay .badge {
   margin: 2px;
 }
+
+.tech-badges .badge {
+  margin: 3px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+}
+
+/* Colores por tecnología */
+.php {
+  background-color: #777BB4;
+}
+
+.html {
+  background-color: #E34F26;
+}
+
+.css {
+  background-color: #1572B6;
+}
+
+.js {
+  background-color: #F7DF1E;
+  color: black;
+}
+
+.mysql {
+  background-color: #4479A1;
+}
+
+.bootstrap {
+  background-color: #7952B3;
+}
